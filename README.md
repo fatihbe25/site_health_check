@@ -6,14 +6,14 @@
                    Spring boot extension pakc 
       
    CTRL + SHIFT + P => 
-                      Spring Initializer: Create a maven project
-                      3.0.0
-                      Java
-                      demo
-                      is_the_site_up
-                      17
-                      --> select dependencies: 
-                          -- Spring Boot Dev Tools 
-                          -- Spring Boot Web
-                      --> select folder to save 
+                      * Spring Initializer: Create a maven project
+                      * 3.0.0
+                      * Java
+                      * demo
+                      * is_the_site_up
+                      * 17
+                      * --> select dependencies: 
+                      *    -- Spring Boot Dev Tools 
+                      *    -- Spring Boot Web
+                      * --> select folder to save 
                       
